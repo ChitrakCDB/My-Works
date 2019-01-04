@@ -8,7 +8,7 @@ int mgetline(char line[],int lim);
 void copy(char to[],char from[]);
 
 
-int main(void)
+int main()
 {
     int len,max;
     char line[MAXLINE],maxline[MAXLINE];
