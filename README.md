@@ -62,6 +62,10 @@ And the while loop and if conditions will executed and the line which is longest
 Task 17:
 Here I've created one function where the line will be checked and compared with the limit and if the case is true it'll be printed and if it is false there will be no output. 
 
+Task 18:
+the removetrail function, we go to the very end of the line and the trace back to the find the character which is not a space, tab and then replace it with 0. This eliminates the trailing blanks in a line. For the empty lines whose length is 0, we simply skip that from output and thus removing it.
+
+
 Task 19:
 In this program ive created two functions first one will read ot till EOF
 And the second one will reverse the line
