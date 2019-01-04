@@ -71,5 +71,12 @@ In this program ive created two functions first one will read ot till EOF
 And the second one will reverse the line
 The simple logic of reverse of string with some upgradation is used
 
+Task 20:
+We declare TABINC as 8 in #define TABINC 8 as the number of spaces which make a TAB.
+
+We start counting the pos from 1 for every new line and we increment pos for all the characters and print the character, which are not tabs. This is demonstrated by the else statements in our program.
+
+When we hit a tab t character, then we need to determine how many spaces we need to replace the t with.
+
 The remaining programs will be uploaded soon
 Stay tuned!
