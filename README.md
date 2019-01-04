@@ -67,7 +67,7 @@ the removetrail function, we go to the very end of the line and the trace back t
 
 
 Task 19:
-In this program ive created two functions first one will read ot till EOF
+In this program I've created two functions first one will read it till EOF
 And the second one will reverse the line
 The simple logic of reverse of string with some upgradation is used
 
