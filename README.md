@@ -62,6 +62,10 @@ And the while loop and if conditions will executed and the line which is longest
 Task 17:
 Here I've created one function where the line will be checked and compared with the limit and if the case is true it'll be printed and if it is false there will be no output. 
 
+Task 19:
+In this program ive created two functions first one will read ot till EOF
+And the second one will reverse the line
+The simple logic of reverse of string with some upgradation is used
 
 The remaining programs will be uploaded soon
 Stay tuned!
