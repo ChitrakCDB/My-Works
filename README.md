@@ -78,5 +78,8 @@ We start counting the pos from 1 for every new line and we increment pos for all
 
 When we hit a tab t character, then we need to determine how many spaces we need to replace the t with.
 
+Task 21:
+We've used for loop and if else statement according to the input the
+Increment and decrement operators will work in the program. 
 The remaining programs will be uploaded soon
 Stay tuned!
